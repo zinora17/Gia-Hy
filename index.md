@@ -1,4 +1,4 @@
-## Assignment 2: Reflective blog
+# Assignment 2: Reflective blog
 
 ### Description:
 At the beginning of the class, Mr.Jonathan introduced programs related to computers and technology. Those programs include IT, Microsoft Engineering, Aeronautics, Psychology, Electrical and electronics, robotics and mechatronics, food technology, and science. After briefly talking about those programs, Mr.Jonathan began to clearly analyze each program. The most obvious program that Mr.Jonathan explained was IT and Microsoft Engineering because most of the students in this class chose that program. After recess, the teacher continued to explain the credits for each program and the GPA that are so important and new to students in this grade. At the end of the class, the teacher talked about the Assignment, especially our first exercise which was to create a reflective blog to familiarize yourself with the computer technology environment. After the class, me and my friends have a lot of questions to ask the teacher such as what is the score to pass this course, is this course harder when comparing to the last course and are students allow to choose teammate in grou assignment.
