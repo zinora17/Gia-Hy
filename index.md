@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Assignment 2: Reflective blog
 
 
 
-Assignment 2: Reflective blog
+
 ## Header 2
 ### Header 3
 
